@@ -17,6 +17,8 @@ a easy java gui design with mysql (school class design)
 ##### 配置需求
 
 1. 下载mysql数据库<https://dev.mysql.com/downloads/mysql/5.7.html#downloads>
+   ![1561608204441](guide/1561608204441.png)
+   ![1561608247396](guide/1561608247396.png)
    安装步骤<https://zhuanlan.zhihu.com/p/37152572>
 
 2. 如果需要可视化界面 可以使用navicat进行mysql数据库管理
@@ -38,8 +40,8 @@ a easy java gui design with mysql (school class design)
    
 
    先修改pubClass/DbConnection代码（23行位置）
-
-   ![1](C:\Users\Char0n\AppData\Roaming\Typora\typora-user-images\1561609387047.png)
+   
+   ![1561609387047.png](guide/1561609387047.png)
 
 ​       用户名密码修改为自己mysql的账号密码
 
@@ -50,7 +52,7 @@ a easy java gui design with mysql (school class design)
 ##### 运行测试
 1. shop/Login.java 运行
 
-![1561609527344]()
+![1561609527344](guide/1561609527344.png)
 
 > 测试账号为 admin/admin 管理员
 >
@@ -62,17 +64,17 @@ a easy java gui design with mysql (school class design)
 
 2. 管理员界面
 
-![1561609643299](C:\Users\Char0n\AppData\Roaming\Typora\typora-user-images\1561609643299.png)
+![1561609643299](guide/1561609643299.png)
 
-![1561609663537](C:\Users\Char0n\AppData\Roaming\Typora\typora-user-images\1561609663537.png)
+![1561609663537](guide/1561609663537.png)
 
 3. 顾客界面
 
-![1561609710949](C:\Users\Char0n\AppData\Roaming\Typora\typora-user-images\1561609710949.png)
+![1561609710949](guide/1561609710949.png)
 
-![1561609723990](C:\Users\Char0n\AppData\Roaming\Typora\typora-user-images\1561609723990.png)
+![1561609723990](guide/1561609723990.png)
 
-![1561609733678](C:\Users\Char0n\AppData\Roaming\Typora\typora-user-images\1561609733678.png)
+![1561609733678](guide/1561609733678.png)
 
 
 
